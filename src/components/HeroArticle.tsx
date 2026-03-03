@@ -1,13 +1,15 @@
 import './HeroArticle.css';
-import newsData from '../data/news.json';
+import { NewsItem } from '../App';
 
-// Use the absolute latest article for the hero
-const heroNews = newsData[0];
+interface HeroArticleProps {
+    newsData: NewsItem[];
+}
 
-export default function HeroArticle() {
-    if (!heroNews) return null;
+export default function HeroArticle({ newsData }: HeroArticleProps) {
+    if (!newsData || newsData.length === 0) return null;
 
-    // Format date nicely
+    const heroNews = newsData[0];
+
     const formattedDate = new Date(heroNews.time).toLocaleDateString('en-US', {
         month: 'short',
         day: 'numeric',
@@ -46,6 +48,9 @@ export default function HeroArticle() {
                             src={heroNews.image}
                             alt={heroNews.title}
                             className="hero-image"
+                            onError={(e) => {
+                                e.currentTarget.src = 'https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=800&h=600';
+                            }}
                         />
                         <div className="play-button glass-panel">
                             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">

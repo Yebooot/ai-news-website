@@ -1,10 +1,15 @@
 import './NewsGrid.css';
-import newsData from '../data/news.json';
+import { NewsItem } from '../App';
 
-// Use items 1 through 8 for the grid (item 0 is in the hero)
-const gridNews = newsData.slice(1, 9);
+interface NewsGridProps {
+    newsData: NewsItem[];
+}
 
-export default function NewsGrid() {
+export default function NewsGrid({ newsData }: NewsGridProps) {
+    if (!newsData || newsData.length <= 1) return null;
+
+    // Use items 1 through 8 for the grid (item 0 is in the hero)
+    const gridNews = newsData.slice(1, 9);
     return (
         <div className="news-grid-container fade-in">
             <div className="grid-header">
@@ -24,7 +29,13 @@ export default function NewsGrid() {
                     return (
                         <article key={item.id} className="grid-card hover-lift" onClick={() => window.open(item.link, '_blank')}>
                             <div className="card-image-wrapper">
-                                <img src={item.image} alt={item.title} />
+                                <img
+                                    src={item.image}
+                                    alt={item.title}
+                                    onError={(e) => {
+                                        e.currentTarget.src = 'https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=800&h=600';
+                                    }}
+                                />
                                 <div className="card-tag glass-panel">{item.category}</div>
                             </div>
                             <div className="card-content">

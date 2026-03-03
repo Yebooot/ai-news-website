@@ -1,9 +1,14 @@
 import { Search, Globe, ChevronDown, Activity } from 'lucide-react';
 import './Header.css';
 
-const categories = ['All', 'Politics', 'Business', 'Tech', 'Science', 'Health', 'Sports'];
+export const categories = ['All', 'Politics', 'Business', 'Tech', 'Science', 'Health', 'Sports'];
 
-export default function Header() {
+interface HeaderProps {
+    activeCategory: string;
+    setActiveCategory: (category: string) => void;
+}
+
+export default function Header({ activeCategory, setActiveCategory }: HeaderProps) {
     return (
         <div className="header-wrapper">
             <header className="header-container">
@@ -17,8 +22,12 @@ export default function Header() {
 
                 {/* Categories Section */}
                 <nav className="header-nav">
-                    {categories.map((cat, idx) => (
-                        <button key={cat} className={`nav-pill ${idx === 0 ? 'active' : ''}`}>
+                    {categories.map((cat) => (
+                        <button
+                            key={cat}
+                            onClick={() => setActiveCategory(cat)}
+                            className={`nav-pill ${activeCategory === cat ? 'active' : ''}`}
+                        >
                             {cat}
                         </button>
                     ))}

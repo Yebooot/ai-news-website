@@ -1,10 +1,15 @@
 import './Sidebar.css';
-import newsData from '../data/news.json';
+import { NewsItem } from '../App';
 
-// Use items 9 through 14 for the sidebar
-const recommendedNews = newsData.slice(9, 14);
+interface SidebarProps {
+    newsData: NewsItem[];
+}
 
-export default function Sidebar() {
+export default function Sidebar({ newsData }: SidebarProps) {
+    if (!newsData || newsData.length === 0) return null;
+
+    // Use items 9 through 14 for the sidebar
+    const recommendedNews = newsData.slice(9, 14);
     return (
         <aside className="sidebar-container">
             <div className="sidebar-header">
@@ -21,7 +26,13 @@ export default function Sidebar() {
                     return (
                         <article key={news.id} className="sidebar-news-item hover-lift" onClick={() => window.open(news.link, '_blank')}>
                             <div className="news-thumbnail">
-                                <img src={news.image} alt={news.title} />
+                                <img
+                                    src={news.image}
+                                    alt={news.title}
+                                    onError={(e) => {
+                                        e.currentTarget.src = 'https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=200&h=200';
+                                    }}
+                                />
                                 <div className="news-category-tag">{news.category}</div>
                             </div>
                             <div className="news-content">
