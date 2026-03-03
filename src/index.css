@@ -1,0 +1,39 @@
+@import './styles/theme.css';
+
+/* Application specific styles */
+#root {
+  width: 100%;
+  padding: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.app-main-wrapper {
+  width: 100%;
+  max-width: 1440px;
+  height: calc(100vh - 80px);
+  background-color: var(--bg-primary);
+  border-radius: var(--radius-app);
+  box-shadow: var(--shadow-soft);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.app-content {
+  flex: 1;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+}
+
+.main-feed {
+  flex: 0 0 calc(100% - 380px);
+  /* Fixed width for sidebar or ~65% */
+  height: 100%;
+  overflow-y: auto;
+  border-right: 1px solid var(--border-color);
+  background-color: var(--bg-primary);
+}

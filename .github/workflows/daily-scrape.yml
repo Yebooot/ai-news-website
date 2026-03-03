@@ -1,0 +1,49 @@
+name: Daily AI News Scraper
+
+on:
+  schedule:
+    # Runs at 08:00 UTC every day
+    - cron: '0 8 * * *'
+  # Allow manual triggering
+  workflow_dispatch:
+
+jobs:
+  scrape-and-commit:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Required to fetch all history so we can commit back
+          fetch-depth: 0
+          
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          
+      - name: Install dependencies
+        run: npm ci
+        
+      - name: Run scraper script
+        run: npm run scrape
+
+      - name: Commit and push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Add the generated JSON file
+          git add src/data/news.json
+          
+          # Check if there are any changes to commit
+          if git diff --staged --quiet; then
+            echo "No new articles found. Skipping commit."
+          else
+            git config --global user.name "github-actions[bot]"
+            git config --global user.email "github-actions[bot]@users.noreply.github.com"
+            git commit -m "chore: daily scrape update of AI news [skip ci]"
+            # Push changes back to the main branch
+            git push origin HEAD:${GITHUB_REF}
+          fi

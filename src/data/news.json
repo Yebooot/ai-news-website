@@ -1,0 +1,302 @@
+[
+  {
+    "id": "oai:arXiv.org:2603.00267v1",
+    "title": "Multi-Sourced, Multi-Agent Evidence Retrieval for Fact-Checking",
+    "link": "https://arxiv.org/abs/2603.00267",
+    "time": "2026-03-03T05:00:00.000Z",
+    "category": "AI Research",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=800&h=600",
+    "excerpt": "arXiv:2603.00267v1 Announce Type: new \nAbstract: Misinformation spreading over the Internet poses a significant threat to both societies and individua...",
+    "author": "Shuzhi Gong, Richard O. Sinnott, Jianzhong Qi, Cecile Paris, Preslav Nakov, Zhuohan Xie"
+  },
+  {
+    "id": "oai:arXiv.org:2603.00285v1",
+    "title": "TraderBench: How Robust Are AI Agents in Adversarial Capital Markets?",
+    "link": "https://arxiv.org/abs/2603.00285",
+    "time": "2026-03-03T05:00:00.000Z",
+    "category": "AI Research",
+    "image": "https://images.unsplash.com/photo-1678286742832-26543bb49959?auto=format&fit=crop&q=80&w=800&h=600",
+    "excerpt": "arXiv:2603.00285v1 Announce Type: new \nAbstract: Evaluating AI agents in finance faces two key challenges: static benchmarks require costly expert ann...",
+    "author": "Xiaochuang Yuan, Hui Xu, Silvia Xu, Cui Zou, Jing Xiong"
+  },
+  {
+    "id": "oai:arXiv.org:2603.00309v1",
+    "title": "DIG to Heal: Scaling General-purpose Agent Collaboration via Explainable Dynamic Decision Paths",
+    "link": "https://arxiv.org/abs/2603.00309",
+    "time": "2026-03-03T05:00:00.000Z",
+    "category": "AI Research",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=800&h=600",
+    "excerpt": "arXiv:2603.00309v1 Announce Type: new \nAbstract: The increasingly popular agentic AI paradigm promises to harness the power of multiple, general-purpo...",
+    "author": "Hanqing Yang, Hyungwoo Lee, Yuhang Yao, Zhiwei Liu, Kay Liu, Jingdi Chen, Carlee Joe-Wong"
+  },
+  {
+    "id": "oai:arXiv.org:2603.00312v1",
+    "title": "How Well Do Multimodal Models Reason on ECG Signals?",
+    "link": "https://arxiv.org/abs/2603.00312",
+    "time": "2026-03-03T05:00:00.000Z",
+    "category": "AI Research",
+    "image": "https://images.unsplash.com/photo-1531297172864-459c7ed8bf92?auto=format&fit=crop&q=80&w=800&h=600",
+    "excerpt": "arXiv:2603.00312v1 Announce Type: new \nAbstract: While multimodal large language models offer a promising solution to the \"black box\" nature of health...",
+    "author": "Maxwell A. Xu, Harish Haresumadram, Catherine W. Liu, Patrick Langer, Jathurshan Pradeepkumar, Wanting Mao, Sunita J. Ferns, Aradhana Verma, Jimeng Sun, Paul Schmiedmayer, Xin Liu, Daniel McDuff, Emily B. Fox, James M. Rehg"
+  },
+  {
+    "id": "oai:arXiv.org:2603.00349v1",
+    "title": "EmCoop: A Framework and Benchmark for Embodied Cooperation Among LLM Agents",
+    "link": "https://arxiv.org/abs/2603.00349",
+    "time": "2026-03-03T05:00:00.000Z",
+    "category": "AI Research",
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=800&h=600",
+    "excerpt": "arXiv:2603.00349v1 Announce Type: new \nAbstract: Real-world scenarios increasingly require multiple embodied agents to collaborate in dynamic environm...",
+    "author": "Hanqing Yang, Shiyu Chen, Narjes Nourzad, Marie Siew, Jingdi Chen, Carlee Joe-Wong"
+  },
+  {
+    "id": "oai:arXiv.org:2603.00350v1",
+    "title": "Monotropic Artificial Intelligence: Toward a Cognitive Taxonomy of Domain-Specialized Language Models",
+    "link": "https://arxiv.org/abs/2603.00350",
+    "time": "2026-03-03T05:00:00.000Z",
+    "category": "AI Research",
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=800&h=600",
+    "excerpt": "arXiv:2603.00350v1 Announce Type: new \nAbstract: The prevailing paradigm in artificial intelligence research equates progress with scale: larger model...",
+    "author": "Antonio de Sousa Leit\\~ao Filho, Allan Kardec Duailibe Barros Filho, Fabr\\'icio Saul Lima, Selby Mykael Lima dos Santos, Rejani Bandeira Vieira Sousa"
+  },
+  {
+    "id": "oai:arXiv.org:2603.00374v1",
+    "title": "Conservative Equilibrium Discovery in Offline Game-Theoretic Multiagent Reinforcement Learning",
+    "link": "https://arxiv.org/abs/2603.00374",
+    "time": "2026-03-03T05:00:00.000Z",
+    "category": "AI Research",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=800&h=600",
+    "excerpt": "arXiv:2603.00374v1 Announce Type: new \nAbstract: Offline learning of strategies takes data efficiency to its extreme by restricting algorithms to a fi...",
+    "author": "Austin A. Nguyen, Michael P. Wellman"
+  },
+  {
+    "id": "oai:arXiv.org:2603.00376v1",
+    "title": "NeuroHex: Highly-Efficient Hex Coordinate System for Creating World Models to Enable Adaptive AI",
+    "link": "https://arxiv.org/abs/2603.00376",
+    "time": "2026-03-03T05:00:00.000Z",
+    "category": "AI Research",
+    "image": "https://images.unsplash.com/photo-1531297172864-459c7ed8bf92?auto=format&fit=crop&q=80&w=800&h=600",
+    "excerpt": "arXiv:2603.00376v1 Announce Type: new \nAbstract: \\textit{NeuroHex} is a hexagonal coordinate system designed to support highly efficient world models ...",
+    "author": "Quinn Jacobson, Joe Luo, Jingfei Xu, Shanmuga Venkatachalam, Kevin Wang, Dingchao Rong, John Paul Shen"
+  },
+  {
+    "id": "oai:arXiv.org:2603.00451v1",
+    "title": "Confusion-Aware Rubric Optimization for LLM-based Automated Grading",
+    "link": "https://arxiv.org/abs/2603.00451",
+    "time": "2026-03-03T05:00:00.000Z",
+    "category": "AI Research",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=800&h=600",
+    "excerpt": "arXiv:2603.00451v1 Announce Type: new \nAbstract: Accurate and unambiguous guidelines are critical for large language model (LLM) based graders, yet ma...",
+    "author": "Yucheng Chu, Hang Li, Kaiqi Yang, Yasemin Copur-Gencturk, Joseph Krajcik, Namsoo Shin, Jiliang Tang"
+  },
+  {
+    "id": "oai:arXiv.org:2603.00460v1",
+    "title": "MED-COPILOT: A Medical Assistant Powered by GraphRAG and Similar Patient Case Retrieval",
+    "link": "https://arxiv.org/abs/2603.00460",
+    "time": "2026-03-03T05:00:00.000Z",
+    "category": "AI Research",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=800&h=600",
+    "excerpt": "arXiv:2603.00460v1 Announce Type: new \nAbstract: Clinical decision-making requires synthesizing heterogeneous evidence, including patient histories, c...",
+    "author": "Shuheng Chen, Namratha Patil, Haonan Pan, Angel Hsing-Chi Hwang, Yao Du, Ruishan Liu, Jieyu Zhao"
+  },
+  {
+    "id": "oai:arXiv.org:2603.00465v1",
+    "title": "Optimizing In-Context Demonstrations for LLM-based Automated Grading",
+    "link": "https://arxiv.org/abs/2603.00465",
+    "time": "2026-03-03T05:00:00.000Z",
+    "category": "AI Research",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=800&h=600",
+    "excerpt": "arXiv:2603.00465v1 Announce Type: new \nAbstract: Automated assessment of open-ended student responses is a critical capability for scaling personalize...",
+    "author": "Yucheng Chu, Hang Li, Kaiqi Yang, Yasemin Copur-Gencturk, Kevin Haudek, Joseph Krajcik, Jiliang Tang"
+  },
+  {
+    "id": "oai:arXiv.org:2603.00469v1",
+    "title": "Why Not? Solver-Grounded Certificates for Explainable Mission Planning",
+    "link": "https://arxiv.org/abs/2603.00469",
+    "time": "2026-03-03T05:00:00.000Z",
+    "category": "AI Research",
+    "image": "https://images.unsplash.com/photo-1531297172864-459c7ed8bf92?auto=format&fit=crop&q=80&w=800&h=600",
+    "excerpt": "arXiv:2603.00469v1 Announce Type: new \nAbstract: Operators of Earth observation satellites need justifications for scheduling decisions: why a request...",
+    "author": "Najeeb Khan"
+  },
+  {
+    "id": "oai:arXiv.org:2603.00472v1",
+    "title": "From Goals to Aspects, Revisited: An NFR Pattern Language for Agentic AI Systems",
+    "link": "https://arxiv.org/abs/2603.00472",
+    "time": "2026-03-03T05:00:00.000Z",
+    "category": "AI Research",
+    "image": "https://images.unsplash.com/photo-1531297172864-459c7ed8bf92?auto=format&fit=crop&q=80&w=800&h=600",
+    "excerpt": "arXiv:2603.00472v1 Announce Type: new \nAbstract: Agentic AI systems exhibit numerous crosscutting concerns -- security, observability, cost management...",
+    "author": "Yijun Yu"
+  },
+  {
+    "id": "oai:arXiv.org:2603.00490v1",
+    "title": "LifeEval: A Multimodal Benchmark for Assistive AI in Egocentric Daily Life Tasks",
+    "link": "https://arxiv.org/abs/2603.00490",
+    "time": "2026-03-03T05:00:00.000Z",
+    "category": "AI Research",
+    "image": "https://images.unsplash.com/photo-1678286742832-26543bb49959?auto=format&fit=crop&q=80&w=800&h=600",
+    "excerpt": "arXiv:2603.00490v1 Announce Type: new \nAbstract: The rapid progress of Multimodal Large Language Models (MLLMs) marks a significant step toward artifi...",
+    "author": "Hengjian Gao, Kaiwei Zhang, Shibo Wang, Mingjie Chen, Qihang Cao, Xianfeng Wang, Yucheng Zhu, Xiongkuo Min, Wei Sun, Dandan Zhu, Guangtao Zhai"
+  },
+  {
+    "id": "oai:arXiv.org:2603.00495v1",
+    "title": "AI Runtime Infrastructure",
+    "link": "https://arxiv.org/abs/2603.00495",
+    "time": "2026-03-03T05:00:00.000Z",
+    "category": "AI Research",
+    "image": "https://images.unsplash.com/photo-1531297172864-459c7ed8bf92?auto=format&fit=crop&q=80&w=800&h=600",
+    "excerpt": "arXiv:2603.00495v1 Announce Type: new \nAbstract: We introduce AI Runtime Infrastructure, a distinct execution-time layer that operates above the model...",
+    "author": "Christopher Cruz"
+  },
+  {
+    "id": "oai:arXiv.org:2603.00532v1",
+    "title": "DenoiseFlow: Uncertainty-Aware Denoising for Reliable LLM Agentic Workflows",
+    "link": "https://arxiv.org/abs/2603.00532",
+    "time": "2026-03-03T05:00:00.000Z",
+    "category": "AI Research",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=800&h=600",
+    "excerpt": "arXiv:2603.00532v1 Announce Type: new \nAbstract: Autonomous agents are increasingly entrusted with complex, long-horizon tasks, ranging from mathemati...",
+    "author": "Yandong Yan, Junwei Peng, Shijie Li, Chenxi Li, Yifei Shang, Can Deng, Ruiting Dai, Yongqiang Zhao, Jiaqi Zhu, Yu Huang"
+  },
+  {
+    "id": "oai:arXiv.org:2603.00540v1",
+    "title": "LOGIGEN: Logic-Driven Generation of Verifiable Agentic Tasks",
+    "link": "https://arxiv.org/abs/2603.00540",
+    "time": "2026-03-03T05:00:00.000Z",
+    "category": "AI Research",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=800&h=600",
+    "excerpt": "arXiv:2603.00540v1 Announce Type: new \nAbstract: The evolution of Large Language Models (LLMs) from static instruction-followers to autonomous agents ...",
+    "author": "Yucheng Zeng, Weipeng Lu, Linyun Liu, Shupeng Li, Zitian Qu, Chenghao Zhu, Shaofei Li, Zhengdong Tan, Mengyue Liu, Haotian Zhao, Zhe Zhou, Jianmin Wu"
+  },
+  {
+    "id": "oai:arXiv.org:2603.00546v1",
+    "title": "Advancing Multimodal Judge Models through a Capability-Oriented Benchmark and MCTS-Driven Data Generation",
+    "link": "https://arxiv.org/abs/2603.00546",
+    "time": "2026-03-03T05:00:00.000Z",
+    "category": "AI Research",
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=800&h=600",
+    "excerpt": "arXiv:2603.00546v1 Announce Type: new \nAbstract: Using Multimodal Large Language Models (MLLMs) as judges to achieve precise and consistent evaluation...",
+    "author": "Zeyu Chen, Huanjin Yao, Ziwang Zhao, Min Yang"
+  },
+  {
+    "id": "oai:arXiv.org:2603.00552v1",
+    "title": "EMPA: Evaluating Persona-Aligned Empathy as a Process",
+    "link": "https://arxiv.org/abs/2603.00552",
+    "time": "2026-03-03T05:00:00.000Z",
+    "category": "AI Research",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=800&h=600",
+    "excerpt": "arXiv:2603.00552v1 Announce Type: new \nAbstract: Evaluating persona-aligned empathy in LLM-based dialogue agents remains challenging. User states are ...",
+    "author": "Shiya Zhang, Yuhan Zhan, Ruixi Su, Ruihan Sun, Ziyi Song, Zhaohan Chen, Xiaofan Zhang"
+  },
+  {
+    "id": "oai:arXiv.org:2603.00575v1",
+    "title": "SWE-Hub: A Unified Production System for Scalable, Executable Software Engineering Tasks",
+    "link": "https://arxiv.org/abs/2603.00575",
+    "time": "2026-03-03T05:00:00.000Z",
+    "category": "AI Research",
+    "image": "https://images.unsplash.com/photo-1531297172864-459c7ed8bf92?auto=format&fit=crop&q=80&w=800&h=600",
+    "excerpt": "arXiv:2603.00575v1 Announce Type: new \nAbstract: Progress in software-engineering agents is increasingly constrained by the scarcity of executable, sc...",
+    "author": "Yucheng Zeng, Shupeng Li, Daxiang Dong, Ruijie Xu, Zimo Chen, Liwei Zheng, Yuxuan Li, Zhe Zhou, Haotian Zhao, Lun Tian, Heng Xiao, Tianshu Zhu, Longkun Hao, Jianmin Wu"
+  },
+  {
+    "id": "oai:arXiv.org:2603.00578v1",
+    "title": "Draft-Thinking: Learning Efficient Reasoning in Long Chain-of-Thought LLMs",
+    "link": "https://arxiv.org/abs/2603.00578",
+    "time": "2026-03-03T05:00:00.000Z",
+    "category": "AI Research",
+    "image": "https://images.unsplash.com/photo-1531297172864-459c7ed8bf92?auto=format&fit=crop&q=80&w=800&h=600",
+    "excerpt": "arXiv:2603.00578v1 Announce Type: new \nAbstract: Long chain-of-thought~(CoT) has become a dominant paradigm for enhancing the reasoning capability of ...",
+    "author": "Jie Cao, Tianwei Lin, Zhenxuan Fan, Bo Yuan, Ziyuan Zhao, Rolan Yan, Wenqiao Zhang, Siliang Tang"
+  },
+  {
+    "id": "oai:arXiv.org:2603.00585v1",
+    "title": "MicroVerse: A Preliminary Exploration Toward a Micro-World Simulation",
+    "link": "https://arxiv.org/abs/2603.00585",
+    "time": "2026-03-03T05:00:00.000Z",
+    "category": "AI Research",
+    "image": "https://images.unsplash.com/photo-1678286742832-26543bb49959?auto=format&fit=crop&q=80&w=800&h=600",
+    "excerpt": "arXiv:2603.00585v1 Announce Type: new \nAbstract: Recent advances in video generation have opened new avenues for macroscopic simulation of complex dyn...",
+    "author": "Rongsheng Wang, Minghao Wu, Hongru Zhou, Zhihan Yu, Zhenyang Cai, Junying Chen, Benyou Wang"
+  },
+  {
+    "id": "oai:arXiv.org:2603.00590v1",
+    "title": "Fair in Mind, Fair in Action? A Synchronous Benchmark for Understanding and Generation in UMLLMs",
+    "link": "https://arxiv.org/abs/2603.00590",
+    "time": "2026-03-03T05:00:00.000Z",
+    "category": "AI Research",
+    "image": "https://images.unsplash.com/photo-1678286742832-26543bb49959?auto=format&fit=crop&q=80&w=800&h=600",
+    "excerpt": "arXiv:2603.00590v1 Announce Type: new \nAbstract: As artificial intelligence (AI) is increasingly deployed across domains, ensuring fairness has become...",
+    "author": "Yiran Zhao, Lu Zhou, Xiaogang Xu, Zhe Liu, Jiafei Wu, Liming Fang"
+  },
+  {
+    "id": "oai:arXiv.org:2603.00599v1",
+    "title": "Heterophily-Agnostic Hypergraph Neural Networks with Riemannian Local Exchanger",
+    "link": "https://arxiv.org/abs/2603.00599",
+    "time": "2026-03-03T05:00:00.000Z",
+    "category": "AI Research",
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=800&h=600",
+    "excerpt": "arXiv:2603.00599v1 Announce Type: new \nAbstract: Hypergraphs are the natural description of higher-order interactions among objects, widely applied in...",
+    "author": "Li Sun, Ming Zhang, Wenxin Jin, Zhongtian Sun, Zhenhao Huang, Hao Peng, Sen Su, Philip Yu"
+  },
+  {
+    "id": "oai:arXiv.org:2603.00608v1",
+    "title": "Machine Learning Grade Prediction Using Students' Grades and Demographics",
+    "link": "https://arxiv.org/abs/2603.00608",
+    "time": "2026-03-03T05:00:00.000Z",
+    "category": "AI Research",
+    "image": "https://images.unsplash.com/photo-1531297172864-459c7ed8bf92?auto=format&fit=crop&q=80&w=800&h=600",
+    "excerpt": "arXiv:2603.00608v1 Announce Type: new \nAbstract: Student repetition in secondary education imposes significant resource burdens, particularly in resou...",
+    "author": "Mwayi Sonkhanani, Symon Chibaya, Clement N. Nyirenda"
+  },
+  {
+    "id": "oai:arXiv.org:2603.00623v1",
+    "title": "TraceSIR: A Multi-Agent Framework for Structured Analysis and Reporting of Agentic Execution Traces",
+    "link": "https://arxiv.org/abs/2603.00623",
+    "time": "2026-03-03T05:00:00.000Z",
+    "category": "AI Research",
+    "image": "https://images.unsplash.com/photo-1531297172864-459c7ed8bf92?auto=format&fit=crop&q=80&w=800&h=600",
+    "excerpt": "arXiv:2603.00623v1 Announce Type: new \nAbstract: Agentic systems augment large language models with external tools and iterative decision making, enab...",
+    "author": "Shu-Xun Yang, Cunxiang Wang, Haoke Zhang, Wenbo Yu, Lindong Wu, Jiayi Gui, Dayong Yang, Yukuo Cen, Zhuoer Feng, Bosi Wen, Yidong Wang, Lucen Zhong, Jiamin Ren, Linfeng Zhang, Jie Tang"
+  },
+  {
+    "id": "oai:arXiv.org:2603.00631v1",
+    "title": "LiTS: A Modular Framework for LLM Tree Search",
+    "link": "https://arxiv.org/abs/2603.00631",
+    "time": "2026-03-03T05:00:00.000Z",
+    "category": "AI Research",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=800&h=600",
+    "excerpt": "arXiv:2603.00631v1 Announce Type: new \nAbstract: LiTS is a modular Python framework for LLM reasoning via tree search. It decomposes tree search into ...",
+    "author": "Xinzhe Li, Yaguang Tao"
+  },
+  {
+    "id": "oai:arXiv.org:2603.00656v1",
+    "title": "InfoPO: Information-Driven Policy Optimization for User-Centric Agents",
+    "link": "https://arxiv.org/abs/2603.00656",
+    "time": "2026-03-03T05:00:00.000Z",
+    "category": "AI Research",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=800&h=600",
+    "excerpt": "arXiv:2603.00656v1 Announce Type: new \nAbstract: Real-world user requests to LLM agents are often underspecified. Agents must interact to acquire miss...",
+    "author": "Fanqi Kong, Jiayi Zhang, Mingyi Deng, Chenglin Wu, Yuyu Luo, Bang Liu"
+  },
+  {
+    "id": "oai:arXiv.org:2603.00676v1",
+    "title": "K^2-Agent: Co-Evolving Know-What and Know-How for Hierarchical Mobile Device Control",
+    "link": "https://arxiv.org/abs/2603.00676",
+    "time": "2026-03-03T05:00:00.000Z",
+    "category": "AI Research",
+    "image": "https://images.unsplash.com/photo-1678286742832-26543bb49959?auto=format&fit=crop&q=80&w=800&h=600",
+    "excerpt": "arXiv:2603.00676v1 Announce Type: new \nAbstract: Existing mobile device control agents often perform poorly when solving complex tasks requiring long-...",
+    "author": "Zhe Wu, Donglin Mo, Hongjin Lu, Junliang Xing, Jianheng Liu, Yuheng Jing, Kai Li, Kun Shao, Jianye Hao, Yuanchun Shi"
+  },
+  {
+    "id": "oai:arXiv.org:2603.00680v1",
+    "title": "MemPO: Self-Memory Policy Optimization for Long-Horizon Agents",
+    "link": "https://arxiv.org/abs/2603.00680",
+    "time": "2026-03-03T05:00:00.000Z",
+    "category": "AI Research",
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&q=80&w=800&h=600",
+    "excerpt": "arXiv:2603.00680v1 Announce Type: new \nAbstract: Long-horizon agents face the challenge of growing context size during interaction with environment, w...",
+    "author": "Ruoran Li, Xinghua Zhang, Haiyang Yu, Shitong Duan, Xiang Li, Wenxin Xiang, Chonghua Liao, Xudong Guo, Yongbin Li, Jinli Suo"
+  }
+]
